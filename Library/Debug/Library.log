@@ -1,0 +1,7 @@
+﻿  Library.cpp
+C:\Users\123\source\repos\Library\Library\Library.cpp(1711,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(2188,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(2344,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(2761,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(2820,24): error C2146: syntax error: missing ';' before identifier 'answer'
+C:\Users\123\source\repos\Library\Library\Library.cpp(2820,24): error C2065: 'answer': undeclared identifier

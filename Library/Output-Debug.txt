@@ -1,0 +1,14 @@
+﻿'Library.exe' (Win32): Loaded 'C:\Users\123\source\repos\Library\Debug\Library.exe'. Symbols loaded.
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x1bb0 has exited with code 0 (0x0).
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'Library.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1a88 has exited with code 0 (0x0).
+The thread 0x4b3c has exited with code 0 (0x0).
+The thread 0xce4 has exited with code -1073741749 (0xc000004b).
+The program '[10284] Library.exe' has exited with code -1073741510 (0xc000013a).

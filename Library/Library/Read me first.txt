@@ -1,0 +1,4 @@
+Please use (underline) instead of (space)!
+You can't edit or remove default datas!
+Admins are already signed up and you can not make new admins!
+You can make new user account

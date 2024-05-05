@@ -1,0 +1,13 @@
+﻿  Library.cpp
+C:\Users\123\source\repos\Library\Library\Library.cpp(1886,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(2492,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(2680,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(3140,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(3226,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(3274,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(4019,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(4071,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\123\source\repos\Library\Library\Library.cpp(4133,77): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\123\source\repos\Library\Library\Library.cpp(4143,61): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\123\source\repos\Library\Library\Library.cpp(4157,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Library.vcxproj -> C:\Users\123\source\repos\Library\Debug\Library.exe
